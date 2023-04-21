@@ -21,3 +21,6 @@ https://kaggle.com/datasets/d7c383d71743683c74424e43e4c2903e0d88b491c86879baa61f
 ### MusicCaps Dataset Features Pre-extracted using MusicNN (For faster training)
 
 https://kaggle.com/datasets/629ee51ba29cdf98f45e3596d10ac9ddf4927d11b090691b3aa3b286060e29f5
+
+### Source of MusicCaps dataset:
+https://paperswithcode.com/dataset/musiccaps
