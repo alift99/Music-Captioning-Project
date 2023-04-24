@@ -14,6 +14,10 @@ https://www.kaggle.com/code/alifdaffa/music-captioning-with-pann
 
 https://www.kaggle.com/code/alifdaffa/music-captioning-with-wav2vec2
 
+### Notebook for Scoring Predicted Captions
+
+https://www.kaggle.com/code/georgegreatwich/spice-cider-scores-for-musicnn-captions
+
 ### Our preprocessed MusicCaps dataset
 
 https://kaggle.com/datasets/d7c383d71743683c74424e43e4c2903e0d88b491c86879baa61f38741a478bbf
